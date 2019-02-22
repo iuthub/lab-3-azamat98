@@ -1,0 +1,16 @@
+.main{
+    border: 5px green solid;
+}
+.head{
+    border: 5px red solid;
+}
+.head h2{
+    border: 5px orange solid;
+}
+.post{
+    border: 5px blue solid;
+}
+#date{
+    border: 5px rgb(167, 4, 167) solid;
+}
+
